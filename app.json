@@ -3,9 +3,13 @@
     "name": "noovies",
     "slug": "noovies",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-MRo2d3nUWEocLcGirrE1izc-GbnqSfW3EIcobLCxA&s",
+      "resizeMode": "contain",
+      "backgroundColor": "#333333"
+    },
+    "plugins": ["expo-font"]
   },
   "name": "noovies"
 }

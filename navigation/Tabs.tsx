@@ -8,6 +8,8 @@ import Search from "../screens/Search";
 
 import { Ionicons } from '@expo/vector-icons';
 
+import Stack from "./Stack";
+
 import { YELLOW_COLOR, BLACK_COLOR } from "../colors";
 
 const Tab = createBottomTabNavigator();
